@@ -1,0 +1,23 @@
+﻿.hide-print {
+    display:none;
+}
+.header{
+    display:none;
+}
+.sub-header{
+    display:block !important;
+    text-align: center;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+}
+.container{
+    width: 100% !important;
+}
+/*.form-search{
+    display:none;
+}
+.button-action{
+    display:none;
+}
+.hello-style{display:none;}
+.container{width: 100% !important;}*/

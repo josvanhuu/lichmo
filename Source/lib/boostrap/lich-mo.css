@@ -1,0 +1,44 @@
+﻿tr.header > td {
+    background-color: #007C7E !important;
+    color: WHITE;
+    font-weight: bold;
+}
+.table-bordered tbody tr:nth-child(even) {
+    background: #f6f6f6;
+}
+.bg-warning{
+    font-weight: bold;
+    font-size: 12px;
+    text-transform: uppercase;
+    background: #007C7E !important;
+    color: WHITE;
+}
+.bg-warning td{
+	text-align: center;
+}
+.form-group {
+    width: 32% !important;
+}
+.form-search{
+    width:100%;
+    margin-bottom: 10px;
+}
+.button-action{
+    float:right;
+    width:100%;
+}
+.form-group.pull-left{
+    margin-right: 15px;
+}
+button.pull-right{
+    margin-left: 15px;
+}
+button.pull-left{
+    margin-right: 15px;
+}
+.table-fixed thead {
+  width: 97%;
+}
+.table-fixed tbody {
+    height: 230px !important;
+}

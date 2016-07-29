@@ -1,0 +1,24 @@
+﻿{
+	"rooms":[
+		{
+		"id":1,
+		"name" : "Room A"
+		},
+    {
+      "id": 2,
+      "name": "Room B"
+    },
+    {
+      "id": 3,
+      "name": "Room C"
+    },
+    {
+      "id": 4,
+      "name": "Room D"
+    },
+    {
+		"id":5,
+		"name": "Room E"
+		}
+	]
+}

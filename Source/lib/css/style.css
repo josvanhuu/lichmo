@@ -1,0 +1,49 @@
+﻿body 
+{
+    font-family:Arial; font-size:12px; margin:0; padding:0; color:#575757;
+}
+h1 { color:#000; }
+.clear { clear:both; }
+.hide { display:none; }
+.show {display:block;}
+
+.header { }
+.banner { height:88px; background:url(img/bg.jpg) repeat-x; text-align:center; }
+.menu { height:40px; background:#428BCA; }
+
+.main { padding:15px; }
+.form .button { background:#39B3D7; border:none; color:#fff; padding:5px 10px; border-radius:3px; }
+.form .cancel { background:#D2322D; }
+.form input[type=text],.form input[type=password],.form select,textarea,.listbox { border:solid 1px #8e8e8e; padding:3px; }
+.form .nav { text-align:center; margin-top:15px; padding-top:15px; border-top:solid 1px #E7E7E7; }
+.form label { font-weight:normal; margin-left:5px; }
+
+.table-header { background:#428BCA; color:#fff; }
+.form .chan { background:#F7F6F3; }
+.form .le { background:#fff; }
+
+th,td { padding:5px; }
+.listbox td { padding:3px; }
+.listbox label { margin-bottom:0; }
+
+.listday th
+{
+    background: #428BCA;
+    color: #fff;
+}
+.khoa-form{
+    float:left;
+    width: 100%;
+}
+.phongmo-form{
+    float: left;
+    width:100%;
+}
+.button-form{
+    width: 100%;
+    float: left;
+    text-align: left !important;
+    margin-bottom: 20px;
+}
+.form-control{border: 1px solid #CDCDCD;}
+.label-primary{padding: 10px !important;}
